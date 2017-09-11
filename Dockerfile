@@ -1,7 +1,5 @@
 FROM quay.io/actcat/devon_rex_base:1.0.0
 
-MAINTAINER pocke <p.ck.t22@gmail.com>
-
 ENV GO_VERSION 1.7
 
 # Install go from binary distributions. https://golang.org/dl/
