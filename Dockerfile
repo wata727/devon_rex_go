@@ -1,4 +1,4 @@
-FROM quay.io/actcat/buildpack_base:latest
+FROM quay.io/actcat/devon_rex_base:1.0.0
 
 MAINTAINER pocke <p.ck.t22@gmail.com>
 
