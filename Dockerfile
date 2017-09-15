@@ -1,6 +1,6 @@
-FROM quay.io/actcat/devon_rex_base:1.0.3
+FROM quay.io/actcat/devon_rex_base:1.0.5
 
-ENV GO_VERSION 1.9
+ENV GO_VERSION 1.8
 
 # Install go from binary distributions. https://golang.org/dl/
 RUN curl -sSL https://storage.googleapis.com/golang/go${GO_VERSION}.linux-amd64.tar.gz \
