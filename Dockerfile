@@ -1,4 +1,4 @@
-FROM quay.io/actcat/devon_rex_base:1.0.5
+FROM quay.io/actcat/devon_rex_base:1.0.6
 
 ENV GO_VERSION 1.8
 
